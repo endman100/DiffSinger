@@ -1,4 +1,6 @@
 import importlib
+import sys, os
+sys.path.append(os.getcwd())
 from utils.hparams import set_hparams, hparams
 
 

@@ -3,3 +3,6 @@
 __pycache__/
 *.sh
 local_tools/
+data/processed/ljspeech/montreal-forced-aligner/*
+checkpoints/*
+data/binary/*
